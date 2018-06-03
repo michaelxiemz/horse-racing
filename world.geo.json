@@ -22737,7 +22737,7 @@
     },
     {
       "type": "Feature",
-      "id": "IRL",
+      "id": "IRE",
       "properties": {
         "name": "Ireland"
       },
@@ -31169,7 +31169,7 @@
     },
     {
       "type": "Feature",
-      "id": "NZL",
+      "id": "NZ",
       "properties": {
         "name": "New Zealand"
       },
